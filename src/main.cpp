@@ -178,7 +178,7 @@ void CapturePlayerName() {
     }
 
 }
-
+//setting for color selection before starting the game
 void DrawColorSelectionMenu()
 {
     ClearBackground(GOLD);
@@ -262,7 +262,7 @@ void LoadGame()
 }
 
 
-
+// to initalize the qorki or pieces
 
 void Initqorkis()
 {
